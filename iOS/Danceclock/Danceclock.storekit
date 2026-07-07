@@ -1,0 +1,20 @@
+{
+  "identifier" : "Danceclock",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "danceclock_pro",
+      "localizations" : [
+        { "description" : "Style-frequency insights and rehearsal streak tracking", "displayName" : "Danceclock Pro", "locale" : "en_US" }
+      ],
+      "productID" : "com.shimondeitel.danceclock.pro",
+      "referenceName" : "Danceclock Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : { "_storeKitErrors" : [] },
+  "subscriptionGroups" : [],
+  "version" : { "major" : 3, "minor" : 0 }
+}
